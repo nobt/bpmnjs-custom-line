@@ -1,4 +1,4 @@
-# bpmnjs-custom-line-
+# bpmnjs-custom-line
   customize the color of the line and arrow of the whole flowchart
 ### bpmnjs自定义连线和箭头的颜色，有2种方式
 * 第一种是改变全局的图和线条箭头的颜色
